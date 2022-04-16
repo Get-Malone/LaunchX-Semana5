@@ -1,4 +1,6 @@
 # vuejs-vuex-launchx
+## Project deploy site
+https://625a323f37f5c331b8882412--sprightly-narwhal-61b6a2.netlify.app/#/
 
 ## Project setup
 ```
